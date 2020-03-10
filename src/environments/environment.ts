@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  lembretesApiUrl: 'http://localhost:5000/api/'
+  lembretesApiUrl: 'http://localhost:5001/api'
 };
 
 /*

@@ -1,5 +1,5 @@
 export interface Lembrete {
-    id: number;
+    id: string;
     name: string;
     email: string;
     cellPhone: string;
